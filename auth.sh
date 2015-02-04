@@ -7,5 +7,5 @@ WEBDAVDIR="TESTETL"
 DWH="na1-pdwh01"
 
 #Splunk
-AUTHSTRING="vladimir.volcko:yyy"
+AUTHSTRING="user:yyy"
 SPLUNKHOST="splunk-sh.ea.intgdc.com"
